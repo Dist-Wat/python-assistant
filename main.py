@@ -21,7 +21,7 @@ def take_command():
             return "some error occurred, try again"
 
 
-openai.api_key = 'YOUR-api-ley'
+openai.api_key = 'YOUR-api-key'
 
 
 def chat_with_bot(messages):
