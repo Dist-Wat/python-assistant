@@ -1,0 +1,3 @@
+openai            # pip install openai
+win32com.client   # pip install win32com.client
+webbrowser        # pip install webbrowser
